@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>680469791554-ctrkrj2rpst03hdhupjntg4g90n950a4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.680469791554-ctrkrj2rpst03hdhupjntg4g90n950a4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>680469791554-2htfm868lf9nj5s1r5mm3eku7kkpgupn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALyGA8qKIrcQM1g35vypuEsi8r3l-YELM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>680469791554</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.onerhino</string>
+	<key>PROJECT_ID</key>
+	<string>one-rhino</string>
+	<key>STORAGE_BUCKET</key>
+	<string>one-rhino.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:680469791554:ios:a5d0334c5755501bcebedb</string>
+	<key>DATABASE_URL</key>
+	<string>https://one-rhino-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680469791554",
+    "firebase_url": "https://one-rhino-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "one-rhino",
+    "storage_bucket": "one-rhino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680469791554:android:dce517f30c60401bcebedb",
+        "android_client_info": {
+          "package_name": "com.flutterflow.onerhino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680469791554-2htfm868lf9nj5s1r5mm3eku7kkpgupn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.onerhino",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "680469791554-hjj9fju0qa0gq5eceqf22p4nu4i867h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5cO6r5MfwU2YA_XyrjhWAUgGb1g-t1B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680469791554-hjj9fju0qa0gq5eceqf22p4nu4i867h7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680469791554-ctrkrj2rpst03hdhupjntg4g90n950a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.onerhino"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
